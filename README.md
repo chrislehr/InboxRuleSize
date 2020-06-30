@@ -13,4 +13,7 @@ From the service description:
 
 Maximum size of an individual transport rule The maximum number of characters that can be used in a single transport rule. The characters are used in the conditions, exceptions, and actions.
 
-The service description states 8kb, but we found that migrated mailboxes are 64Kb and provisioned were 256Kb
+We found that migrated mailboxes are 64Kb and provisioned were 256Kb
+
+
+
